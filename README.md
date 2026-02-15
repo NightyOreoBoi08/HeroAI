@@ -34,7 +34,7 @@ What are my blockers?
 - Faulty Internet Connection
 - Sleep Deprivation
 - Inability to stay consistent
-  <img width="689" height="408" alt="image" src="https://github.com/user-attachments/assets/0bd254b0-49af-4d78-9ba7-637a5074e68c" />
+<img width="689" height="408" alt="image" src="https://github.com/user-attachments/assets/0bd254b0-49af-4d78-9ba7-637a5074e68c" />
 
 #Day 5
 What did I do yesterday?
