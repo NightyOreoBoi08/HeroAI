@@ -23,7 +23,7 @@ What are my blockers?
 - Exhaustion
 <img width="398" height="565" alt="image" src="https://github.com/user-attachments/assets/9807f4ba-f1d9-42d9-bec2-b5aeebe996d1" />
 
-#Day 4
+# Day 4
 What did I do yesterday?
 - Revised the Frontend of the Project.
 What will I do today?
@@ -36,7 +36,7 @@ What are my blockers?
 - Inability to stay consistent
 <img width="689" height="408" alt="image" src="https://github.com/user-attachments/assets/0bd254b0-49af-4d78-9ba7-637a5074e68c" />
 
-#Day 5
+# Day 5
 What did I do yesterday?
 - Got started with the program
 What will I do today?
